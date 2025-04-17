@@ -1,2 +1,2 @@
-# Recipie-Cost-Estimator
-I have created a recipe cost estimator in excel but this was just a test using static information.  Naturally the next step was to pull the data from a dynamic database to make sure this estimation tool is up to date
+# Where The Wild Things Glow 
+Inspiration for this project was from the 2019 KIBA winning Infographic by Jonni Walker. I really appreciated his take on bioluminescence in Australia but wanted to expand it to other areas of the world and make a tool to help find them in your area.  the sql is an example of how this pulled data could be used to take away insights and how I was able to pull it all together.  
